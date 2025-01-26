@@ -10,13 +10,17 @@ This section contains screenshots related to hosting a static website using AWS 
 
 This section contains screenshots related to hosting a static website using AWS S3.
 
+# AWS S3 Static Website Hosting
+
+This section contains screenshots related to hosting a static website using AWS S3.
+
 ## Screenshots
 
 ### 1. Screenshot 1
-![Screenshot 1](https://raw.githubusercontent.com/Xphenomenal008/Aws-Learning-Journey/main/aws%20free%20learning%20journey/aws%20s3/s3%20static%20website%20hosting/Screenshot%202025-01-26%20191234.png)
+![Screenshot 1](https://raw.githubusercontent.com/Xphenomenal008/Aws-Learning-Journey/s3-bucket/aws%20free%20learning%20jouney/aws%20s3/s3%20static%20website%20hosting/Screenshot%202025-01-26%20191234.png)
 
 ### 2. Screenshot 2
-![Screenshot 2](https://raw.githubusercontent.com/Xphenomenal008/Aws-Learning-Journey/main/aws%20free%20learning%20journey/aws%20s3/s3%20static%20website%20hosting/Screenshot%202025-01-26%20191310.png)
+![Screenshot 2](https://raw.githubusercontent.com/Xphenomenal008/Aws-Learning-Journey/s3-bucket/aws%20free%20learning%20jouney/aws%20s3/s3%20static%20website%20hosting/Screenshot%202025-01-26%20191310.png)
 
 ### 3. Screenshot 3
-![Screenshot 3](https://raw.githubusercontent.com/Xphenomenal008/Aws-Learning-Journey/main/aws%20free%20learning%20journey/aws%20s3/s3%20static%20website%20hosting/Screenshot%202025-01-26%20191353.png)
+![Screenshot 3](https://raw.githubusercontent.com/Xphenomenal008/Aws-Learning-Journey/s3-bucket/aws%20free%20learning%20jouney/aws%20s3/s3%20static%20website%20hosting/Screenshot%202025-01-26%20191353.png)
