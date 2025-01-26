@@ -2,14 +2,7 @@
 This repository serves as a personal log of my journey to mastering Amazon Web Services (AWS)
 
 <h1>s3 static website hoisting</h1>
-# AWS S3 Static Website Hosting
-
-This section contains screenshots related to hosting a static website using AWS S3.
-
-# AWS S3 Static Website Hosting
-
-This section contains screenshots related to hosting a static website using AWS S3.
-
+ 
 # AWS S3 Static Website Hosting
 
 This section contains screenshots related to hosting a static website using AWS S3.
